@@ -21,6 +21,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Contribution snake
+        continue-on-error: true
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -31,13 +32,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 3D contribution calendar
+        continue-on-error: true
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Stats card
-        uses: soulteary/github-readme-stats-action@v1.0.0
+        continue-on-error: true
+        uses: soulteary/github-readme-stats-action@v1.3.0
         with:
           card: stats
           options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"
@@ -45,7 +48,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Top languages card
-        uses: soulteary/github-readme-stats-action@v1.0.0
+        continue-on-error: true
+        uses: soulteary/github-readme-stats-action@v1.3.0
         with:
           card: top-langs
           options: "username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8"
@@ -53,7 +57,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Collect images
-        run: cp profile-3d-contrib/*.svg dist/
+        run: |
+          mkdir -p dist
+          cp profile-3d-contrib/*.svg dist/ 2>/dev/null || true
+          ls -la dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
