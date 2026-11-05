@@ -8,10 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/JusohrDev"><img src="https://img.shields.io/badge/GitHub-JusohrDev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://youtube.com/@jusohr"><img src="https://img.shields.io/badge/YouTube-@jusohr-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://www.twitch.tv/jusohr"><img src="https://img.shields.io/badge/Twitch-jusohr-7C3AED?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
-
 <img src="https://komarev.com/ghpvc/?username=JusohrDev&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
@@ -58,16 +54,6 @@ Pipeline de **NLP basado en microservicios** que genera FAQs automáticamente a 
 **App móvil multiplataforma** construida con Flutter, respaldada por una API propia en Node.js + Express con TypeScript y persistencia en MongoDB.
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### ☁️ Smart Parking — Pasantía · DevOps & Cloud
-Plataforma para que los clientes de parqueaderos paguen y consulten su información desde el celular. Responsable de la **infraestructura en AWS**: red segura con subredes segregadas y security groups desplegados como **infraestructura como código** con Terraform, más workflows de automatización en GitHub Actions.
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub_Actions" />
 
 </td>
 </tr>
@@ -118,23 +104,32 @@ Plataforma para que los clientes de parqueaderos paguen y consulten su informaci
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JusohrDev&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=EDE9FE&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
-</div>
+<br/><br/>
 
-## `05` / BEYOND THE CODE
-
-<div align="center">
-
-Fuera del código creo contenido en español sobre **World of Warcraft, MMORPGs y RPGs**.
-
-<a href="https://youtube.com/@jusohr"><img src="https://img.shields.io/badge/YouTube-Content_Creator-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://www.twitch.tv/jusohr"><img src="https://img.shields.io/badge/Twitch-Streaming-7C3AED?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JusohrDev/JusohrDev/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JusohrDev/JusohrDev/output/profile-green-animate.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/JusohrDev/JusohrDev/output/profile-night-rainbow.svg" alt="3D contribution calendar" />
+</picture>
 
 <br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JusohrDev/JusohrDev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JusohrDev/JusohrDev/output/snake-light.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/JusohrDev/JusohrDev/output/snake-dark.svg" alt="Contribution snake" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 **“Construyendo hoy las habilidades para crear la tecnología del mañana.”**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:312E81,100:090B1A&height=110&section=footer" />
 
-<sub>Banner: <a href="https://github.com/hackwithdev/pixelartgifs">pixelartgifs</a> · Icons: <a href="https://skillicons.dev">skillicons</a></sub>
+<sub>Banner: <a href="https://github.com/hackwithdev/pixelartgifs">pixelartgifs</a> · Icons: <a href="https://skillicons.dev">skillicons</a> · Snake: <a href="https://github.com/Platane/snk">snk</a> · 3D: <a href="https://github.com/yoshi389111/github-profile-3d-contrib">3d-contrib</a></sub>
 
 </div>
