@@ -118,23 +118,9 @@ Plataforma para que los clientes de parqueaderos paguen y consulten su informaci
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JusohrDev&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=EDE9FE&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JusohrDev&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-
 </div>
 
-## `05` / CONTRIBUTION ARCADE
-
-<div align="center">
-
-<img src="./gh-space-shooter.gif" width="100%" alt="JusohrDev GitHub contributions as an animated space shooter" />
-
-<sub>Mi historial de código convertido en un arcade espacial. 👾</sub>
-
-</div>
-
-## `06` / BEYOND THE CODE
+## `05` / BEYOND THE CODE
 
 <div align="center">
 
@@ -149,6 +135,6 @@ Fuera del código creo contenido en español sobre **World of Warcraft, MMORPGs 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:312E81,100:090B1A&height=110&section=footer" />
 
-<sub>Banner: <a href="https://github.com/hackwithdev/pixelartgifs">pixelartgifs</a> · Icons: <a href="https://skillicons.dev">skillicons</a> · Arcade: <a href="https://github.com/czl9707/gh-space-shooter">gh-space-shooter</a></sub>
+<sub>Banner: <a href="https://github.com/hackwithdev/pixelartgifs">pixelartgifs</a> · Icons: <a href="https://skillicons.dev">skillicons</a></sub>
 
 </div>
