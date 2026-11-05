@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B1A,45:312E81,100:7C3AED&height=210&section=header&text=JUSOHRDEV&fontSize=58&fontColor=EDE9FE&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20BUILDING%20THE%20FUTURE&descAlignY=60&descSize=14&animation=fadeIn" />
+<img src="https://github.com/user-attachments/assets/df631917-e94a-4ca2-be80-0e64f774411a" width="100%" alt="Pixel art banner" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Hola%2C+soy+Jusohr+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Software+Engineering+%7C+Backend+%7C+Game+Dev;AI%2FML+%7C+Mobile+Development;Aprender.+Construir.+Mejorar." alt="Typing SVG" />
+<a href="https://github.com/JusohrDev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Hola%2C+soy+Jusohr+%F0%9F%91%8B;Systems+Engineering+Student+%40+USTA+Tunja;Full-Stack+%C2%B7+Generative+AI+%C2%B7+Cloud;FastAPI+%C2%B7+Flutter+%C2%B7+AWS+%C2%B7+Terraform;Aprender.+Construir.+Mejorar." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://github.com/JusohrDev"><img src="https://img.shields.io/badge/GitHub-JusohrDev-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://youtube.com/@jusohr"><img src="https://img.shields.io/badge/YouTube-@jusohr-DC2626?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.twitch.tv/jusohr"><img src="https://img.shields.io/badge/Twitch-jusohr-7C3AED?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+<a href="https://github.com/JusohrDev"><img src="https://img.shields.io/badge/GitHub-JusohrDev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://youtube.com/@jusohr"><img src="https://img.shields.io/badge/YouTube-@jusohr-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.twitch.tv/jusohr"><img src="https://img.shields.io/badge/Twitch-jusohr-7C3AED?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=JusohrDev&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -18,99 +18,60 @@
 
 ---
 
-## `01` / SYSTEM PROFILE
+## `01` / ABOUT ME
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  USER       : Jusohr                                         │
-│  ROLE       : Systems Engineering Student / Developer        │
-│  LOCATION   : Colombia                                       │
-│  CURRENT    : Learning by building real projects             │
-│  INTERESTS  : Software · Backend · Games · AI · Mobile        │
-└──────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────┐
+│  USER      : Juan Esteban Herrera · jusohr                    │
+│  ROLE      : Systems Engineering Student / Developer          │
+│  CAMPUS    : Universidad Santo Tomás · Tunja, Colombia        │
+│  FOCUS     : Full-Stack · Generative AI · Cloud & DevOps      │
+│  CURRENT   : Shipping real projects, one iteration at a time  │
+└───────────────────────────────────────────────────────────────┘
 ```
 
-Soy estudiante de **Ingeniería de Sistemas** en Colombia. Me interesa entender cómo funcionan los sistemas por dentro y convertir ideas en productos de software útiles, mantenibles y bien diseñados.
+Estudiante de **Ingeniería de Sistemas** enfocado en **desarrollo full-stack** e **inteligencia artificial generativa**. Me gusta entender cómo funcionan los sistemas por dentro y convertir ideas en software útil, mantenible y bien diseñado.
 
-- 🧩 Me gusta resolver problemas y aprender los fundamentos detrás de cada tecnología.
-- ⚙️ Exploro backend, APIs, bases de datos y arquitectura de software.
-- 🎮 Me interesa la programación de videojuegos y los sistemas interactivos.
-- 🧠 Estoy explorando inteligencia artificial, machine learning y automatización.
-- 📱 Desarrollo móvil y experiencias multiplataforma también forman parte de mis intereses.
-- 🎥 Fuera del código, creo contenido sobre World of Warcraft, MMORPGs y RPGs.
+- ⚙️ **Backend & APIs** — servicios con FastAPI y Node.js, bases de datos relacionales y NoSQL.
+- 🧠 **Generative AI / NLP** — embeddings, clustering y LLMs locales integrados en pipelines reales.
+- ☁️ **Cloud & DevOps** — infraestructura como código en AWS con Terraform y CI con GitHub Actions.
+- 📱 **Mobile** — apps multiplataforma con Flutter y Dart.
+- 🎮 **Game Dev** — prototipos y mecánicas en Unity.
 
-> Mi enfoque: aprender con intención, construir proyectos reales y mejorar la calidad de mi código en cada iteración.
+> Código limpio, sin sobreingeniería, y cada iteración un poco mejor que la anterior.
 
-## `02` / FOCUS AREAS
+## `02` / FEATURED WORK
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⌘ Software Engineering
-Diseño de software, estructuras de datos, algoritmos, depuración, patrones y buenas prácticas.
+### 🧠 Everwod
+Pipeline de **NLP basado en microservicios** que genera FAQs automáticamente a partir de conversaciones de usuarios: embeddings semánticos, clustering con HDBSCAN y redacción con un LLM local (Ollama · qwen2.5).
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Development
-APIs, servicios, lógica de negocio, bases de datos y fundamentos de sistemas escalables.
+### 📱 Latinoamérica Comparte
+**App móvil multiplataforma** construida con Flutter, respaldada por una API propia en Node.js + Express con TypeScript y persistencia en MongoDB.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Game Development
-Sistemas de juego, prototipado, lógica interactiva y programación orientada a experiencias.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 AI & Machine Learning
-Python, análisis de datos, experimentación con modelos y automatización inteligente.
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 📱 Mobile Development
-Aplicaciones multiplataforma, interfaces y desarrollo con Flutter y Dart.
+### ☁️ Smart Parking — Pasantía · DevOps & Cloud
+Plataforma para que los clientes de parqueaderos paguen y consulten su información desde el celular. Responsable de la **infraestructura en AWS**: red segura con subredes segregadas y security groups desplegados como **infraestructura como código** con Terraform, más workflows de automatización en GitHub Actions.
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub_Actions" />
 
 </td>
 </tr>
 </table>
-
-## `03` / TECHNOLOGY STACK
-
-<div align="center">
-
-**LANGUAGES & FRAMEWORKS**
-
-<img src="https://iconic-api.onrender.com/dark/python" width="64" alt="Python" />
-<img src="https://iconic-api.onrender.com/dark/cpp" width="64" alt="C++" />
-<img src="https://iconic-api.onrender.com/dark/js" width="64" alt="JavaScript" />
-<img src="https://iconic-api.onrender.com/dark/typescript" width="64" alt="TypeScript" />
-<img src="https://iconic-api.onrender.com/dark/dart" width="64" alt="Dart" />
-<img src="https://iconic-api.onrender.com/dark/flutter" width="64" alt="Flutter" />
-<img src="https://iconic-api.onrender.com/dark/nodejs" width="64" alt="Node.js" />
-
-**TOOLS & ENVIRONMENT**
-
-<img src="https://iconic-api.onrender.com/dark/git" width="64" alt="Git" />
-<img src="https://iconic-api.onrender.com/dark/github" width="64" alt="GitHub" />
-<img src="https://iconic-api.onrender.com/dark/vscode" width="64" alt="VS Code" />
-<img src="https://iconic-api.onrender.com/dark/linux" width="64" alt="Linux" />
-<img src="https://iconic-api.onrender.com/dark/docker" width="64" alt="Docker" />
-
-</div>
-
-> Stack en evolución: los iconos representan tecnologías con las que he trabajado o que estoy explorando; no implican dominio profesional de todas ellas.
-
-## `04` / SELECTED WORK
-
-Estoy preparando y documentando proyectos para mostrar cómo aplico mis conocimientos. Puedes consultar los repositorios disponibles aquí:
 
 <div align="center">
 
@@ -120,24 +81,38 @@ Estoy preparando y documentando proyectos para mostrar cómo aplico mis conocimi
 
 </div>
 
-**Qué quiero destacar en esta sección:**
-- Backend: APIs, servicios y persistencia de datos.
-- Mobile: aplicaciones Flutter con una experiencia cuidada.
-- Game development: prototipos, mecánicas y herramientas.
-- AI / Data: experimentos reproducibles con Python.
+## `03` / TECH STACK
 
-Cuando haya proyectos publicados, reemplazaré esta lista por tarjetas con nombre, descripción, tecnologías, demo y documentación.
+<div align="center">
 
-## `05` / GITHUB ANALYTICS
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,dart,cpp&theme=dark" alt="Languages" />
+
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb&theme=dark" alt="Backend and data" />
+
+**FRONTEND & MOBILE**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,unity&theme=dark" alt="Frontend, mobile and games" />
+
+**CLOUD & DEVOPS**
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,linux&theme=dark" alt="Cloud and DevOps" />
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+
+</div>
+
+## `04` / GITHUB ANALYTICS
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=JusohrDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusohrDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=JusohrDev&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=C9D1D9" alt="GitHub streak" />
 
 <br/>
 
@@ -149,7 +124,7 @@ Cuando haya proyectos publicados, reemplazaré esta lista por tarjetas con nombr
 
 </div>
 
-## `06` / CONTRIBUTION ARCADE — SPACE SHOOTER
+## `05` / CONTRIBUTION ARCADE
 
 <div align="center">
 
@@ -159,37 +134,21 @@ Cuando haya proyectos publicados, reemplazaré esta lista por tarjetas con nombr
 
 </div>
 
-> GIF generado automáticamente con [gh-space-shooter](https://github.com/czl9707/gh-space-shooter). Se actualizará mediante GitHub Actions.
-
-## `07` / PROFILE DESIGN SYSTEM
-
-Este perfil combina recursos open source para mantener una identidad visual consistente:
-
-- **[GitAscii](https://github.com/Igorcbraz/GitAscii):** editor visual para diseñar widgets, arte ASCII y bloques de métricas. Puedes crear tu layout, exportar `gitascii.json` y añadirlo a la raíz de este repositorio.
-- **[ICONIC](https://github.com/YuheshPandian/ICONIC):** iconos bubble en tema oscuro para mostrar tecnologías con una estética uniforme.
-- **[gh-space-shooter](https://github.com/czl9707/gh-space-shooter):** animación arcade basada en el calendario de contribuciones.
+## `06` / BEYOND THE CODE
 
 <div align="center">
 
-<a href="https://gitascii.com/"><img src="https://img.shields.io/badge/Design%20with-GitAscii-7C3AED?style=for-the-badge" alt="Design with GitAscii" /></a>
-<a href="https://github.com/YuheshPandian/ICONIC"><img src="https://img.shields.io/badge/Icons-ICONIC-312E81?style=for-the-badge" alt="ICONIC" /></a>
-<a href="https://github.com/czl9707/gh-space-shooter"><img src="https://img.shields.io/badge/Arcade-gh--space--shooter-090B1A?style=for-the-badge" alt="gh-space-shooter" /></a>
+Fuera del código creo contenido en español sobre **World of Warcraft, MMORPGs y RPGs**.
 
-</div>
-
-## `08` / BEYOND THE CODE
-
-<div align="center">
-
-<a href="https://youtube.com/@jusohr"><img src="https://img.shields.io/badge/YouTube-Content_Creator-DC2626?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.twitch.tv/jusohr"><img src="https://img.shields.io/badge/Twitch-Streaming-7C3AED?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+<a href="https://youtube.com/@jusohr"><img src="https://img.shields.io/badge/YouTube-Content_Creator-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.twitch.tv/jusohr"><img src="https://img.shields.io/badge/Twitch-Streaming-7C3AED?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
 
 <br/><br/>
 
 **“Construyendo hoy las habilidades para crear la tecnología del mañana.”**
 
-Gracias por visitar mi perfil. Siempre hay algo nuevo que aprender, construir y mejorar.
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:312E81,100:090B1A&height=110&section=footer" />
+
+<sub>Banner: <a href="https://github.com/hackwithdev/pixelartgifs">pixelartgifs</a> · Icons: <a href="https://skillicons.dev">skillicons</a> · Arcade: <a href="https://github.com/czl9707/gh-space-shooter">gh-space-shooter</a></sub>
 
 </div>
