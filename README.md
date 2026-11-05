@@ -97,12 +97,8 @@ Pipeline de **NLP basado en microservicios** que genera FAQs automáticamente a 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JusohrDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusohrDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JusohrDev&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=EDE9FE&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+<img height="170" src="https://raw.githubusercontent.com/JusohrDev/JusohrDev/output/stats.svg" alt="GitHub stats" />
+<img height="170" src="https://raw.githubusercontent.com/JusohrDev/JusohrDev/output/top-langs.svg" alt="Top languages" />
 
 <br/><br/>
 
@@ -130,6 +126,6 @@ Pipeline de **NLP basado en microservicios** que genera FAQs automáticamente a 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:312E81,100:090B1A&height=110&section=footer" />
 
-<sub>Banner: <a href="https://github.com/hackwithdev/pixelartgifs">pixelartgifs</a> · Icons: <a href="https://skillicons.dev">skillicons</a> · Snake: <a href="https://github.com/Platane/snk">snk</a> · 3D: <a href="https://github.com/yoshi389111/github-profile-3d-contrib">3d-contrib</a></sub>
+<sub>Banner: <a href="https://github.com/hackwithdev/pixelartgifs">pixelartgifs</a> · Stats: <a href="https://github.com/anuraghazra/github-readme-stats">readme-stats</a> · Icons: <a href="https://skillicons.dev">skillicons</a> · Snake: <a href="https://github.com/Platane/snk">snk</a> · 3D: <a href="https://github.com/yoshi389111/github-profile-3d-contrib">3d-contrib</a></sub>
 
 </div>

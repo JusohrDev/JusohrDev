@@ -1,11 +1,15 @@
 name: Profile widgets
 
-# Genera la serpiente y el calendario 3D de contribuciones y los publica en la
+# Genera las estadisticas, la serpiente y el calendario 3D de contribuciones y los publica en la
 # rama "output". Nunca hace commits en main, asi que no interfiere con tus pulls.
 on:
   schedule:
     - cron: "17 6 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-widgets.yml"
 
 permissions:
   contents: write
@@ -31,6 +35,22 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8"
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Collect images
         run: cp profile-3d-contrib/*.svg dist/
